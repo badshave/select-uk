@@ -1,0 +1,715 @@
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Pluto (US) Smithsonian Channel Selects (D)" tvg-logo="http://corporate.pluto.tv/wp-content/uploads/2016/05/PLuto_logo_675x675-1.png" group-title="USA | PLUTO TV",Pluto (US) Smithsonian Channel Selects (D)
+http://193.107.202.221:81/hGks5gfHy/2479179/1555187
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalsmithsonian.us" tvg-name="USA: SMITHSONIAN" tvg-logo="https://logo.iptveditor.com/smithsonianchannel.png" group-title="USA | DOCUMENTARY",USA: SMITHSONIAN
+http://193.107.202.221:81/hGks5gfHy/2479179/31940
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Smithsonian Channel HD (SMTHHD)" tvg-name="USA: SMITHSONIAN CHANNEL UHD" tvg-logo="https://logo.iptveditor.com/smithsonianchannel.png" group-title="UHD EXCLUSIVE",USA: SMITHSONIAN CHANNEL UHD
+http://193.107.202.221:81/hGks5gfHy/2479179/130095
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="smithsonianchannel.us" tvg-name="USAL: SMITHSONIAN CHANNEL FHD" tvg-logo="https://logo.iptveditor.com/smithsonianchannel.png" group-title="USA | ESPAÑOL",USAL: SMITHSONIAN CHANNEL FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/1081182
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT: SMITHSONIAN CHANNEL FHD" tvg-logo="https://logo.iptveditor.com/smithsonianchannel.png" group-title="INT | LATIN AMERICA",LAT: SMITHSONIAN CHANNEL FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/1081288
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersport1.al" tvg-name="ALB: SUPER SPORT 1 HD" tvg-logo="https://logo.iptveditor.com/supersport1.png" group-title="INT | ALBANIA",ALB: SUPER SPORT 1 HD
+http://193.107.202.221:81/hGks5gfHy/2479179/1112604
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersport2.al" tvg-name="ALB: SUPER SPORT 2 HD" tvg-logo="https://logo.iptveditor.com/supersport2.png" group-title="INT | ALBANIA",ALB: SUPER SPORT 2 HD
+http://193.107.202.221:81/hGks5gfHy/2479179/1112601
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersport4.al" tvg-name="ALB: SUPER SPORT 4 HD" tvg-logo="https://logo.iptveditor.com/supersport4.png" group-title="INT | ALBANIA",ALB: SUPER SPORT 4 HD
+http://193.107.202.221:81/hGks5gfHy/2479179/1112595
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersport5.al" tvg-name="ALB: SUPER SPORT 5 HD" tvg-logo="https://logo.iptveditor.com/supersport5.png" group-title="INT | ALBANIA",ALB: SUPER SPORT 5 HD
+http://193.107.202.221:81/hGks5gfHy/2479179/1112592
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersport2.al" tvg-name="ALB: SUPER SPORT 6 HD" tvg-logo="https://logo.iptveditor.com/supersport6.png" group-title="INT | ALBANIA",ALB: SUPER SPORT 6 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport1.uk" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://logo.iptveditor.com/eurosport1.png" group-title="UK | SPORTS",EUROSPORT 1 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20350
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport2.uk" tvg-name="EUROSPORT 2 FHD" tvg-logo="https://logo.iptveditor.com/eurosport2.png" group-title="UK | SPORTS",EUROSPORT 2 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20353
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="69newsphiladelphia.us" tvg-name="BT SPORTS 1 FHD" tvg-logo="https://logo.iptveditor.com/btsport1.png" group-title="UK | SPORTS",BT SPORTS 1 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20359
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsports1.uk" tvg-name="BT SPORTS 1 FHD 2 (50FPS)" tvg-logo="https://logo.iptveditor.com/btsport1.png" group-title="UK | SPORTS",BT SPORTS 1 FHD 2 (50FPS)
+http://193.107.202.221:81/hGks5gfHy/2479179/20360
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsports1.uk" tvg-name="BT SPORTS 1 FHD 3" tvg-logo="https://logo.iptveditor.com/btsport1.png" group-title="UK | SPORTS",BT SPORTS 1 FHD 3
+http://193.107.202.221:81/hGks5gfHy/2479179/104722
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsports2.uk" tvg-name="BT SPORTS 2 FHD" tvg-logo="https://logo.iptveditor.com/btsport2.png" group-title="UK | SPORTS",BT SPORTS 2 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20365
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsports2.uk" tvg-name="BT SPORTS 2 FHD 2 (50FPS)" tvg-logo="https://logo.iptveditor.com/btsport2.png" group-title="UK | SPORTS",BT SPORTS 2 FHD 2 (50FPS)
+http://193.107.202.221:81/hGks5gfHy/2479179/20366
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsports2.uk" tvg-name="BT SPORTS 2 FHD 3" tvg-logo="https://logo.iptveditor.com/btsport2.png" group-title="UK | SPORTS",BT SPORTS 2 FHD 3
+http://193.107.202.221:81/hGks5gfHy/2479179/104724
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsports3.uk" tvg-name="BT SPORTS 3 FHD" tvg-logo="https://logo.iptveditor.com/btsport3.png" group-title="UK | SPORTS",BT SPORTS 3 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20370
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsports3.uk" tvg-name="BT SPORTS 3 FHD 2 (50FPS)" tvg-logo="https://logo.iptveditor.com/btsport3.png" group-title="UK | SPORTS",BT SPORTS 3 FHD 2 (50FPS)
+http://193.107.202.221:81/hGks5gfHy/2479179/20371
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsports3.uk" tvg-name="BT SPORTS 3 FHD 3" tvg-logo="https://logo.iptveditor.com/btsport3.png" group-title="UK | SPORTS",BT SPORTS 3 FHD 3
+http://193.107.202.221:81/hGks5gfHy/2479179/104726
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsportsespn.uk" tvg-name="BT SPORTS 4 FHD" tvg-logo="https://logo.iptveditor.com/btsportespn.png" group-title="UK | SPORTS",BT SPORTS 4 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20379
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsportsespn.uk" tvg-name="BT SPORTS 4 FHD 2 (50FPS)" tvg-logo="https://logo.iptveditor.com/btsportespn.png" group-title="UK | SPORTS",BT SPORTS 4 FHD 2 (50FPS)
+http://193.107.202.221:81/hGks5gfHy/2479179/322582
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsportsespn.uk" tvg-name="BT SPORTS 4 FHD 3" tvg-logo="https://logo.iptveditor.com/btsportespn.png" group-title="UK | SPORTS",BT SPORTS 4 FHD 3
+http://193.107.202.221:81/hGks5gfHy/2479179/20380
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="premiersports1.uk" tvg-name="PREMIER SPORTS 1 FHD" tvg-logo="https://logo.iptveditor.com/premiersports1.png" group-title="UK | SPORTS",PREMIER SPORTS 1 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/104683
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="premiersports2.uk" tvg-name="PREMIER SPORTS 2 FHD" tvg-logo="https://logo.iptveditor.com/premiersports2.png" group-title="UK | SPORTS",PREMIER SPORTS 2 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/104684
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="freesports.uk" tvg-name="FREESPORTS FHD" tvg-logo="https://logo.iptveditor.com/freesports.png" group-title="UK | SPORTS",FREESPORTS FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20377
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mutv.uk" tvg-name="MUTV FHD" tvg-logo="https://logo.iptveditor.com/mutv.png" group-title="UK | SPORTS",MUTV FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20374
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="lfctv.uk" tvg-name="LFC TV FHD" tvg-logo="https://logo.iptveditor.com/lfctv.png" group-title="UK | SPORTS",LFC TV FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20383
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="racingtv.uk" tvg-name="RACING TV FHD" tvg-logo="https://logo.iptveditor.com/racingtv.png" group-title="UK | SPORTS",RACING TV FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20386
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="laligatv.uk" tvg-name="LA LIGA TV FHD" tvg-logo="https://logo.iptveditor.com/laligatv.png" group-title="UK | SPORTS",LA LIGA TV FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20393
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="boxnation.uk" tvg-name="BOXNATION FHD" tvg-logo="https://logo.iptveditor.com/boxnation.png" group-title="UK | SPORTS",BOXNATION FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20396
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsportsextra1.uk" tvg-name="BT SPORTS EXTRA 1 HD" tvg-logo="https://logo.iptveditor.com/btsportextra1.png" group-title="UK | SPORTS",BT SPORTS EXTRA 1 HD
+http://193.107.202.221:81/hGks5gfHy/2479179/104748
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsportsextra2.uk" tvg-name="BT SPORTS EXTRA 2 HD" tvg-logo="https://logo.iptveditor.com/btsportextra2.png" group-title="UK | SPORTS",BT SPORTS EXTRA 2 HD
+http://193.107.202.221:81/hGks5gfHy/2479179/104750
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsportsextra3.uk" tvg-name="BT SPORTS EXTRA 3 HD" tvg-logo="https://logo.iptveditor.com/btsportextra3.png" group-title="UK | SPORTS",BT SPORTS EXTRA 3 HD
+http://193.107.202.221:81/hGks5gfHy/2479179/104752
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsportsextra4.uk" tvg-name="BT SPORTS EXTRA 4 HD" tvg-logo="https://logo.iptveditor.com/btsportextra4.png" group-title="UK | SPORTS",BT SPORTS EXTRA 4 HD
+http://193.107.202.221:81/hGks5gfHy/2479179/104754
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsportsextra5.uk" tvg-name="BT SPORTS EXTRA 5 HD" tvg-logo="https://logo.iptveditor.com/btsportextra5.png" group-title="UK | SPORTS",BT SPORTS EXTRA 5 HD
+http://193.107.202.221:81/hGks5gfHy/2479179/104756
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsportsextra6.uk" tvg-name="BT SPORTS EXTRA 6 HD" tvg-logo="https://logo.iptveditor.com/btsportextra6.png" group-title="UK | SPORTS",BT SPORTS EXTRA 6 HD
+http://193.107.202.221:81/hGks5gfHy/2479179/104758
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skynews.uk" tvg-name="S.K.Y NEWS FHD" tvg-logo="https://logo.iptveditor.com/skynews.png" group-title="UK | NEWS",S.K.Y NEWS FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20449
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bloomberg.uk" tvg-name="BLOOMBERG FHD" tvg-logo="https://logo.iptveditor.com/bloomberg.png" group-title="UK | NEWS",BLOOMBERG FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20452
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbcnews.uk" tvg-name="BBC NEWS FHD" tvg-logo="https://logo.iptveditor.com/bbcnews.png" group-title="UK | NEWS",BBC NEWS FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20455
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbcparliament.uk" tvg-name="BBC PARLIAMENT SD" tvg-logo="https://logo.iptveditor.com/bbcparliament.png" group-title="UK | NEWS",BBC PARLIAMENT SD
+http://193.107.202.221:81/hGks5gfHy/2479179/20458
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cnn.uk" tvg-name="CNN FHD" tvg-logo="https://logo.iptveditor.com/cnn.png" group-title="UK | NEWS",CNN FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20460
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="euronews.uk" tvg-name="EURONEWS SD" tvg-logo="https://logo.iptveditor.com/euronews.png" group-title="UK | NEWS",EURONEWS SD
+http://193.107.202.221:81/hGks5gfHy/2479179/20466
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ndtv24x7.uk" tvg-name="NDTV 24x7" tvg-logo="https://logo.iptveditor.com/ndtv24x7.png" group-title="UK | NEWS",NDTV 24x7
+http://193.107.202.221:81/hGks5gfHy/2479179/20469
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rt.uk" tvg-name="RT FHD" tvg-logo="https://logo.iptveditor.com/rt.png" group-title="UK | NEWS",RT FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20470
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FRANCE 24 FHD" tvg-logo="https://logo.iptveditor.com/france24.png" group-title="UK | NEWS",FRANCE 24 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20473
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="aljazeera.uk" tvg-name="AL JAZEERA FHD" tvg-logo="https://logo.iptveditor.com/aljazeera.png" group-title="UK | NEWS",AL JAZEERA FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20475
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtworld.uk" tvg-name="TRT WORLD" tvg-logo="https://logo.iptveditor.com/trtworld.png" group-title="UK | NEWS",TRT WORLD
+http://193.107.202.221:81/hGks5gfHy/2479179/20478
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nhkworld.uk" tvg-name="NHK WORLD FHD" tvg-logo="https://logo.iptveditor.com/nhkworld.png" group-title="UK | NEWS",NHK WORLD FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/129956
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news.uk" tvg-name="GB NEWS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/1200px-GB_News_Logo.svg.png" group-title="UK | NEWS",GB NEWS FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/210959
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="boomerang.uk" tvg-name="BOOMERANG FHD" tvg-logo="https://logo.iptveditor.com/boomerang.png" group-title="UK | KIDS",BOOMERANG FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20593
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nick.uk" tvg-name="NICK FHD" tvg-logo="https://logo.iptveditor.com/nick.png" group-title="UK | KIDS",NICK FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20594
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nicktoons.uk" tvg-name="NICKTOONS SD" tvg-logo="https://logo.iptveditor.com/nicktoons.png" group-title="UK | KIDS",NICKTOONS SD
+http://193.107.202.221:81/hGks5gfHy/2479179/20597
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickjr.uk" tvg-name="NICK JR FHD" tvg-logo="https://logo.iptveditor.com/nickjr.png" group-title="UK | KIDS",NICK JR FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20603
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="pop.uk" tvg-name="POP SD" tvg-logo="https://logo.iptveditor.com/pop.png" group-title="UK | KIDS",POP SD
+http://193.107.202.221:81/hGks5gfHy/2479179/20604
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tinypop.uk" tvg-name="TINY POP SD" tvg-logo="https://logo.iptveditor.com/tinypop.png" group-title="UK | KIDS",TINY POP SD
+http://193.107.202.221:81/hGks5gfHy/2479179/20605
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cartoonito.uk" tvg-name="CARTOONITO SD" tvg-logo="https://logo.iptveditor.com/cartoonito.png" group-title="UK | KIDS",CARTOONITO SD
+http://193.107.202.221:81/hGks5gfHy/2479179/20607
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickjrtoo.uk" tvg-name="NICK JR. TOO" tvg-logo="https://logo.iptveditor.com/nickjrtoo.png" group-title="UK | KIDS",NICK JR. TOO
+http://193.107.202.221:81/hGks5gfHy/2479179/20608
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="babytv.uk" tvg-name="BABY TV" tvg-logo="https://logo.iptveditor.com/babytv.png" group-title="UK | KIDS",BABY TV
+http://193.107.202.221:81/hGks5gfHy/2479179/20609
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="popmax.uk" tvg-name="POP MAX SD" tvg-logo="https://logo.iptveditor.com/popmax.png" group-title="UK | KIDS",POP MAX SD
+http://193.107.202.221:81/hGks5gfHy/2479179/20612
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="disneyjunior.us" tvg-name="DISNEY JUNIOR FHD" tvg-logo="https://logo.iptveditor.com/disneyjunior.png" group-title="UK | KIDS",DISNEY JUNIOR FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20616
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbeebies.uk" tvg-name="CBEEBIES FHD" tvg-logo="https://logo.iptveditor.com/cbeebies.png" group-title="UK | KIDS",CBEEBIES FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20618
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="disneyxd.uk" tvg-name="DISNEY XD HD" tvg-logo="https://logo.iptveditor.com/disneyxd.png" group-title="UK | KIDS",DISNEY XD HD
+http://193.107.202.221:81/hGks5gfHy/2479179/20619
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbbc.uk" tvg-name="CBBC FHD" tvg-logo="https://logo.iptveditor.com/cbbc.png" group-title="UK | KIDS",CBBC FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20620
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cartoonnetwork.uk" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://logo.iptveditor.com/cartoonnetwork.png" group-title="UK | KIDS",CARTOON NETWORK FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20623
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="disneychannel.uk" tvg-name="DISNEY CHANNEL FHD" tvg-logo="https://logo.iptveditor.com/disneychannel.png" group-title="UK | KIDS",DISNEY CHANNEL FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20652
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="citv.uk" tvg-name="CITV" tvg-logo="https://logo.iptveditor.com/citv.png" group-title="UK | KIDS",CITV
+http://193.107.202.221:81/hGks5gfHy/2479179/20666
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="investigationdiscovery.uk" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://logo.iptveditor.com/investigationdiscovery.png" group-title="UK | DOCUMENTARY",INVESTIGATION DISCOVERY
+http://193.107.202.221:81/hGks5gfHy/2479179/20243
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="yesterday.uk" tvg-name="YESTERDAY SD" tvg-logo="https://logo.iptveditor.com/yesterday.png" group-title="UK | DOCUMENTARY",YESTERDAY SD
+http://193.107.202.221:81/hGks5gfHy/2479179/20244
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoveryturbo.uk" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://logo.iptveditor.com/discoveryturbo.png" group-title="UK | DOCUMENTARY",DISCOVERY TURBO SD
+http://193.107.202.221:81/hGks5gfHy/2479179/20246
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="animalplanet.uk" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="UK | DOCUMENTARY",ANIMAL PLANET FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20248
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="natgeowild.uk" tvg-name="NAT GEO WILD FHD" tvg-logo="https://logo.iptveditor.com/natgeowild.png" group-title="UK | DOCUMENTARY",NAT GEO WILD FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20250
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eden.uk" tvg-name="EDEN" tvg-logo="https://logo.iptveditor.com/eden.png" group-title="UK | DOCUMENTARY",EDEN
+http://193.107.202.221:81/hGks5gfHy/2479179/20253
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoveryscience.uk" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://logo.iptveditor.com/discoveryscience.png" group-title="UK | DOCUMENTARY",DISCOVERY SCIENCE HD
+http://193.107.202.221:81/hGks5gfHy/2479179/20254
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoveryhistory.uk" tvg-name="DISCOVERY HISTORY HD" tvg-logo="https://logo.iptveditor.com/discoveryhistory.png" group-title="UK | DOCUMENTARY",DISCOVERY HISTORY HD
+http://193.107.202.221:81/hGks5gfHy/2479179/20256
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="pbsamerica" tvg-name="PBS America SD" tvg-logo="https://logo.iptveditor.com/pbsamerica.png" group-title="UK | DOCUMENTARY",PBS America SD
+http://193.107.202.221:81/hGks5gfHy/2479179/20257
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="blaze.uk" tvg-name="BLAZE SD" tvg-logo="https://logo.iptveditor.com/blaze.png" group-title="UK | DOCUMENTARY",BLAZE SD
+http://193.107.202.221:81/hGks5gfHy/2479179/20258
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skydocumentaries.uk" tvg-name="S.K.Y DOCUMENTARIES HD" tvg-logo="https://logo.iptveditor.com/skydocumentaries.png" group-title="UK | DOCUMENTARY",S.K.Y DOCUMENTARIES HD
+http://193.107.202.221:81/hGks5gfHy/2479179/20267
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skycrime.uk" tvg-name="S.K.Y CRIME FHD" tvg-logo="https://logo.iptveditor.com/skycrime.png" group-title="UK | DOCUMENTARY",S.K.Y CRIME FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20269
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoverychannel.uk" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://logo.iptveditor.com/discoverychannel.png" group-title="UK | DOCUMENTARY",DISCOVERY CHANNEL FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20271
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="natgeo.uk" tvg-name="NAT GEO FHD" tvg-logo="https://logo.iptveditor.com/nationalgeographic.png" group-title="UK | DOCUMENTARY",NAT GEO FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20273
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyhistory.uk" tvg-name="S.K.Y HISTORY FHD" tvg-logo="https://logo.iptveditor.com/skyhistory.png" group-title="UK | DOCUMENTARY",S.K.Y HISTORY FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20275
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="crime&investigation.uk" tvg-name="CRIME & INVESTIGATION FHD" tvg-logo="https://logo.iptveditor.com/crimeandinvestigation.png" group-title="UK | DOCUMENTARY",CRIME & INVESTIGATION FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20277
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyhistory.uk" tvg-name="S.K.Y H2 HISTORY FHD" tvg-logo="https://logo.iptveditor.com/skyh2history.png" group-title="UK | DOCUMENTARY",S.K.Y H2 HISTORY FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20279
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skynature.uk" tvg-name="S.K.Y NATURE FHD" tvg-logo="https://logo.iptveditor.com/skynature.png" group-title="UK | DOCUMENTARY",S.K.Y NATURE FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20285
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="lovenature.uk" tvg-name="LOVE NATURE FHD" tvg-logo="https://logo.iptveditor.com/lovenature.png" group-title="UK | DOCUMENTARY",LOVE NATURE FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/104617
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mtvbase.uk" tvg-name="MTV BASE" tvg-logo="https://logo.iptveditor.com/mtvbase.png" group-title="UK | MUSIC",MTV BASE
+http://193.107.202.221:81/hGks5gfHy/2479179/20498
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mtvmusic.uk" tvg-name="MTV MUSIC" tvg-logo="https://logo.iptveditor.com/mtvmusic.png" group-title="UK | MUSIC",MTV MUSIC
+http://193.107.202.221:81/hGks5gfHy/2479179/20499
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mtvclassic.uk" tvg-name="MTV CLASSICS" tvg-logo="https://logo.iptveditor.com/mtvclassics.png" group-title="UK | MUSIC",MTV CLASSICS
+http://193.107.202.221:81/hGks5gfHy/2479179/20500
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mtvhits.uk" tvg-name="MTV HITS" tvg-logo="https://logo.iptveditor.com/mtvhits.png" group-title="UK | MUSIC",MTV HITS
+http://193.107.202.221:81/hGks5gfHy/2479179/20502
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="magic.uk" tvg-name="MAGIC" tvg-logo="https://logo.iptveditor.com/magic.png" group-title="UK | MUSIC",MAGIC
+http://193.107.202.221:81/hGks5gfHy/2479179/20505
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kiss.uk" tvg-name="KISS SD" tvg-logo="https://logo.iptveditor.com/kiss.png" group-title="UK | MUSIC",KISS SD
+http://193.107.202.221:81/hGks5gfHy/2479179/20506
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="clublandtv.uk" tvg-name="CLUBLAND" tvg-logo="https://logo.iptveditor.com/clubland.png" group-title="UK | MUSIC",CLUBLAND
+http://193.107.202.221:81/hGks5gfHy/2479179/20507
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="now90s.uk" tvg-name="NOW 90s" tvg-logo="https://logo.iptveditor.com/now90s.png" group-title="UK | MUSIC",NOW 90s
+http://193.107.202.221:81/hGks5gfHy/2479179/20508
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="now80s.uk" tvg-name="NOW 80s" tvg-logo="https://logo.iptveditor.com/now80s.png" group-title="UK | MUSIC",NOW 80s
+http://193.107.202.221:81/hGks5gfHy/2479179/20509
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="thebox.uk" tvg-name="THE BOX" tvg-logo="https://logo.iptveditor.com/thebox.png" group-title="UK | MUSIC",THE BOX
+http://193.107.202.221:81/hGks5gfHy/2479179/20511
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kerrang.uk" tvg-name="KERRANG!" tvg-logo="https://logo.iptveditor.com/kerrang.png" group-title="UK | MUSIC",KERRANG!
+http://193.107.202.221:81/hGks5gfHy/2479179/20513
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="traceurban.uk" tvg-name="TRACE URBAN" tvg-logo="https://logo.iptveditor.com/traceurban.png" group-title="UK | MUSIC",TRACE URBAN
+http://193.107.202.221:81/hGks5gfHy/2479179/20514
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tracevault.uk" tvg-name="TRACE VAULT" tvg-logo="https://logo.iptveditor.com/tracevault.png" group-title="UK | MUSIC",TRACE VAULT
+http://193.107.202.221:81/hGks5gfHy/2479179/20515
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="now70s.uk" tvg-name="NOW 70s" tvg-logo="https://logo.iptveditor.com/now70s.png" group-title="UK | MUSIC",NOW 70s
+http://193.107.202.221:81/hGks5gfHy/2479179/246890
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportmainevent.uk" tvg-name="S.K.Y SPORTS MAIN EVENT FHD" tvg-logo="https://logo.iptveditor.com/skysportsmainevent.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS MAIN EVENT FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20672
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportmainevent.uk" tvg-name="S.K.Y SPORTS MAIN EVENT FHD 2" tvg-logo="https://logo.iptveditor.com/skysportsmainevent.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS MAIN EVENT FHD 2
+http://193.107.202.221:81/hGks5gfHy/2479179/104672
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportspremierleague.uk" tvg-name="S.K.Y SPORTS PREMIER LEAGUE UHD (50FPS)" tvg-logo="https://logo.iptveditor.com/skysportspremierleague.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS PREMIER LEAGUE UHD (50FPS)
+http://193.107.202.221:81/hGks5gfHy/2479179/255098
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportspremierleague.uk" tvg-name="S.K.Y SPORTS PREMIER LEAGUE FHD" tvg-logo="https://logo.iptveditor.com/skysportspremierleague.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS PREMIER LEAGUE FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20675
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportspremierleague.uk" tvg-name="S.K.Y SPORTS PREMIER LEAGUE FHD 2" tvg-logo="https://logo.iptveditor.com/skysportspremierleague.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS PREMIER LEAGUE FHD 2
+http://193.107.202.221:81/hGks5gfHy/2479179/104674
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportscricket.uk" tvg-name="S.K.Y SPORTS CRICKET UHD (50FPS)" tvg-logo="https://logo.iptveditor.com/skysportscricket.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS CRICKET UHD (50FPS)
+http://193.107.202.221:81/hGks5gfHy/2479179/255106
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportscricket.uk" tvg-name="S.K.Y SPORTS CRICKET FHD" tvg-logo="https://logo.iptveditor.com/skysportscricket.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS CRICKET FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20678
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportscricket.uk" tvg-name="S.K.Y SPORTS CRICKET FHD 2" tvg-logo="https://logo.iptveditor.com/skysportscricket.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS CRICKET FHD 2
+http://193.107.202.221:81/hGks5gfHy/2479179/104676
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsgolf.uk" tvg-name="S.K.Y SPORTS GOLF UHD (50FPS)" tvg-logo="https://logo.iptveditor.com/skysportsgolf.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS GOLF UHD (50FPS)
+http://193.107.202.221:81/hGks5gfHy/2479179/255103
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsgolf.uk" tvg-name="S.K.Y SPORTS GOLF FHD" tvg-logo="https://logo.iptveditor.com/skysportsgolf.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS GOLF FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20681
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsgolf.uk" tvg-name="S.K.Y SPORTS GOLF FHD 2" tvg-logo="https://logo.iptveditor.com/skysportsgolf.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS GOLF FHD 2
+http://193.107.202.221:81/hGks5gfHy/2479179/104677
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="S.K.Y SPORTS F1 UHD (50FPS)" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS F1 UHD (50FPS)
+http://193.107.202.221:81/hGks5gfHy/2479179/255105
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="S.K.Y SPORTS F1 FHD" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS F1 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20684
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="S.K.Y SPORTS F1 FHD 2" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS F1 FHD 2
+http://193.107.202.221:81/hGks5gfHy/2479179/104678
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsnfl.uk" tvg-name="S.K.Y SPORTS ACTION UHD (50FPS)" tvg-logo="https://logo.iptveditor.com/skysportsaction.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS ACTION UHD (50FPS)
+http://193.107.202.221:81/hGks5gfHy/2479179/255099
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsnfl.uk" tvg-name="S.K.Y SPORTS ACTION FHD" tvg-logo="https://logo.iptveditor.com/skysportsaction.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS ACTION FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20687
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsnfl.uk" tvg-name="S.K.Y SPORTS ACTION FHD 2" tvg-logo="https://logo.iptveditor.com/skysportsaction.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS ACTION FHD 2
+http://193.107.202.221:81/hGks5gfHy/2479179/104739
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsarena.uk" tvg-name="S.K.Y SPORTS ARENA UHD (50FPS)" tvg-logo="https://logo.iptveditor.com/skysportsarena.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS ARENA UHD (50FPS)
+http://193.107.202.221:81/hGks5gfHy/2479179/255107
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsarena.uk" tvg-name="S.K.Y SPORTS ARENA FHD" tvg-logo="https://logo.iptveditor.com/skysportsarena.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS ARENA FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20690
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsarena.uk" tvg-name="S.K.Y SPORTS ARENA FHD 2" tvg-logo="https://logo.iptveditor.com/skysportsarena.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS ARENA FHD 2
+http://193.107.202.221:81/hGks5gfHy/2479179/104679
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsfootball.uk" tvg-name="S.K.Y SPORTS FOOTBALL UHD (50FPS)" tvg-logo="https://logo.iptveditor.com/skysportsfootball.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS FOOTBALL UHD (50FPS)
+http://193.107.202.221:81/hGks5gfHy/2479179/255104
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsfootball.uk" tvg-name="S.K.Y SPORTS FOOTBALL FHD" tvg-logo="https://logo.iptveditor.com/skysportsfootball.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS FOOTBALL FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20704
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsfootball.uk" tvg-name="S.K.Y SPORTS FOOTBALL FHD 2" tvg-logo="https://logo.iptveditor.com/skysportsfootball.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS FOOTBALL FHD 2
+http://193.107.202.221:81/hGks5gfHy/2479179/104740
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsnews.uk" tvg-name="S.K.Y SPORTS NEWS UHD (50FPS)" tvg-logo="https://logo.iptveditor.com/skysportsnews.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS NEWS UHD (50FPS)
+http://193.107.202.221:81/hGks5gfHy/2479179/255100
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsnews.uk" tvg-name="S.K.Y SPORTS NEWS FHD" tvg-logo="https://logo.iptveditor.com/skysportsnews.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS NEWS FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20693
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsnews.uk" tvg-name="S.K.Y SPORTS NEWS FHD 2" tvg-logo="https://logo.iptveditor.com/skysportsnews.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS NEWS FHD 2
+http://193.107.202.221:81/hGks5gfHy/2479179/104680
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsracing.uk" tvg-name="S.K.Y SPORTS RACING UHD (50FPS)" tvg-logo="https://logo.iptveditor.com/skysportsracing.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS RACING UHD (50FPS)
+http://193.107.202.221:81/hGks5gfHy/2479179/255097
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsracing.uk" tvg-name="S.K.Y SPORTS RACING FHD" tvg-logo="https://logo.iptveditor.com/skysportsracing.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS RACING FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20696
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsracing.uk" tvg-name="S.K.Y SPORTS RACING FHD 2" tvg-logo="https://logo.iptveditor.com/skysportsracing.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS RACING FHD 2
+http://193.107.202.221:81/hGks5gfHy/2479179/104681
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsmix.uk" tvg-name="S.K.Y SPORTS MIX UHD (50FPS)" tvg-logo="https://logo.iptveditor.com/skysportsmix.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS MIX UHD (50FPS)
+http://193.107.202.221:81/hGks5gfHy/2479179/255101
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsmix.uk" tvg-name="S.K.Y SPORTS MIX FHD" tvg-logo="https://logo.iptveditor.com/skysportsmix.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS MIX FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20701
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsmix.uk" tvg-name="S.K.Y SPORTS MIX FHD 2" tvg-logo="https://logo.iptveditor.com/skysportsmix.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS MIX FHD 2
+http://193.107.202.221:81/hGks5gfHy/2479179/129527
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsboxoffice.uk" tvg-name="S.K.Y SPORTS BOX OFFICE FHD" tvg-logo="https://logo.iptveditor.com/skysportsboxoffice.png" group-title="UK | S.K.Y SPORTS",S.K.Y SPORTS BOX OFFICE FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/162952
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbcone.uk" tvg-name="BBC ONE FHD" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="UK | ENTERTAINMENT",BBC ONE FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20057
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbctwo.uk" tvg-name="BBC TWO FHD" tvg-logo="https://logo.iptveditor.com/bbctwo.png" group-title="UK | ENTERTAINMENT",BBC TWO FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20139
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="itv1.uk" tvg-name="ITV 1 FHD" tvg-logo="https://logo.iptveditor.com/itv1.png" group-title="UK | ENTERTAINMENT",ITV 1 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20142
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="channel4.uk" tvg-name="CHANNEL 4 FHD" tvg-logo="https://logo.iptveditor.com/channel4.png" group-title="UK | ENTERTAINMENT",CHANNEL 4 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20158
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="channel5.uk" tvg-name="CHANNEL 5 FHD" tvg-logo="https://logo.iptveditor.com/channel5.png" group-title="UK | ENTERTAINMENT",CHANNEL 5 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20160
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skymax.uk" tvg-name="S.K.Y MAX FHD" tvg-logo="https://logo.iptveditor.com/skymax.png" group-title="UK | ENTERTAINMENT",S.K.Y MAX FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20162
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skywitness.uk" tvg-name="S.K.Y WITNESS FHD" tvg-logo="https://logo.iptveditor.com/skywitness.png" group-title="UK | ENTERTAINMENT",S.K.Y WITNESS FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20164
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="w.uk" tvg-name="W FHD" tvg-logo="https://logo.iptveditor.com/w.png" group-title="UK | ENTERTAINMENT",W FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20166
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="gold.uk" tvg-name="GOLD FHD" tvg-logo="https://logo.iptveditor.com/gold.png" group-title="UK | ENTERTAINMENT",GOLD FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20168
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dave.uk" tvg-name="DAVE FHD" tvg-logo="https://logo.iptveditor.com/dave.png" group-title="UK | ENTERTAINMENT",DAVE FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20170
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="comedycentral.uk" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://logo.iptveditor.com/comedycentral.png" group-title="UK | ENTERTAINMENT",COMEDY CENTRAL FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20172
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skycomedy.uk" tvg-name="S.K.Y COMEDY FHD" tvg-logo="https://logo.iptveditor.com/skycomedy.png" group-title="UK | ENTERTAINMENT",S.K.Y COMEDY FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20174
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="syfy.uk" tvg-name="S.K.Y SCI FI FHD" tvg-logo="https://logo.iptveditor.com/syfy.png" group-title="UK | ENTERTAINMENT",S.K.Y SCI FI FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20176
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbc3.uk" tvg-name="BBC THREE FHD" tvg-logo="https://duckduckgo.com/i/05f6f87e.png" group-title="UK | ENTERTAINMENT",BBC THREE FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/902646
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbcfour.uk" tvg-name="BBC FOUR FHD (Live after 7pm+)" tvg-logo="https://logo.iptveditor.com/bbcfour.png" group-title="UK | ENTERTAINMENT",BBC FOUR FHD (Live after 7pm+)
+http://193.107.202.221:81/hGks5gfHy/2479179/20178
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="itv2.uk" tvg-name="ITV 2 FHD" tvg-logo="https://logo.iptveditor.com/itv2.png" group-title="UK | ENTERTAINMENT",ITV 2 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20179
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="itv3.uk" tvg-name="ITV 3 FHD" tvg-logo="https://logo.iptveditor.com/itv3.png" group-title="UK | ENTERTAINMENT",ITV 3 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20181
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="itv4.uk" tvg-name="ITV 4 FHD" tvg-logo="https://logo.iptveditor.com/itv4.png" group-title="UK | ENTERTAINMENT",ITV 4 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20183
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyarts.uk" tvg-name="S.K.Y ARTS FHD" tvg-logo="https://logo.iptveditor.com/skyarts.png" group-title="UK | ENTERTAINMENT",S.K.Y ARTS FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20185
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mtv.uk" tvg-name="MTV FHD" tvg-logo="https://logo.iptveditor.com/mtv.png" group-title="UK | ENTERTAINMENT",MTV FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20189
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="alibi.uk" tvg-name="ALIBI FHD" tvg-logo="https://logo.iptveditor.com/alibi.png" group-title="UK | ENTERTAINMENT",ALIBI FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20191
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tlc.uk" tvg-name="TLC FHD" tvg-logo="https://logo.iptveditor.com/tlc.png" group-title="UK | ENTERTAINMENT",TLC FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20193
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="s4c.uk" tvg-name="S4C FHD" tvg-logo="https://logo.iptveditor.com/s4c.png" group-title="UK | ENTERTAINMENT",S4C FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20195
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="e4.uk" tvg-name="E4 FHD" tvg-logo="https://logo.iptveditor.com/e4.png" group-title="UK | ENTERTAINMENT",E4 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20196
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="more4.uk" tvg-name="MORE 4 FHD" tvg-logo="https://logo.iptveditor.com/more4.png" group-title="UK | ENTERTAINMENT",MORE 4 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20198
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport5.uk" tvg-name="TALK TV FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/a5e608404d99992d03513bde221b620b.png" group-title="UK | ENTERTAINMENT",TALK TV FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/1085879
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="quest.uk" tvg-name="QUEST FHD" tvg-logo="https://logo.iptveditor.com/quest.png" group-title="UK | ENTERTAINMENT",QUEST FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20200
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eentertainment.uk" tvg-name="E! ENTERTAINMENT FHD" tvg-logo="https://logo.iptveditor.com/eentertainment.png" group-title="UK | ENTERTAINMENT",E! ENTERTAINMENT FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20202
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyatlantic.uk" tvg-name="S.K.Y ATLANTIC FHD" tvg-logo="https://logo.iptveditor.com/skyatlantic.png" group-title="UK | ENTERTAINMENT",S.K.Y ATLANTIC FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20699
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyshowcase.uk" tvg-name="S.K.Y SHOWCASE FHD" tvg-logo="https://logo.iptveditor.com/skyshowcase.png" group-title="UK | ENTERTAINMENT",S.K.Y SHOWCASE FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/255108
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="itvanglia.uk" tvg-name="ITV 1 ANGLIA EAST" tvg-logo="https://logo.iptveditor.com/itv1angliae.png" group-title="UK | REGIONALS",ITV 1 ANGLIA EAST
+http://193.107.202.221:81/hGks5gfHy/2479179/20141
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="itvcentralwest.uk" tvg-name="ITV 1 HD CENTRAL WEST" tvg-logo="https://logo.iptveditor.com/itvcentral.png" group-title="UK | REGIONALS",ITV 1 HD CENTRAL WEST
+http://193.107.202.221:81/hGks5gfHy/2479179/20143
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="itvmeridiansouth.uk" tvg-name="ITV 1 MERIDIAN SOUTH HD" tvg-logo="https://logo.iptveditor.com/itvmeridianeast.png" group-title="UK | REGIONALS",ITV 1 MERIDIAN SOUTH HD
+http://193.107.202.221:81/hGks5gfHy/2479179/20146
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="itvtynetees.uk" tvg-name="ITV 1 TYNE TEES FHD" tvg-logo="https://logo.iptveditor.com/itvtynetees.png" group-title="UK | REGIONALS",ITV 1 TYNE TEES FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20148
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="itvwest.uk" tvg-name="ITV 1 HD WEST" tvg-logo="https://logo.iptveditor.com/itvtynetees.png" group-title="UK | REGIONALS",ITV 1 HD WEST
+http://193.107.202.221:81/hGks5gfHy/2479179/20149
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="itvyorkshirewest.uk" tvg-name="ITV 1 HD WEST YORKSHIRE" tvg-logo="https://logo.iptveditor.com/itvwestyorkshire.png" group-title="UK | REGIONALS",ITV 1 HD WEST YORKSHIRE
+http://193.107.202.221:81/hGks5gfHy/2479179/20150
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="itvwales.uk" tvg-name="ITV 1 WALES FHD" tvg-logo="https://logo.iptveditor.com/itvwales.png" group-title="UK | REGIONALS",ITV 1 WALES FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20151
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="itvborder.uk" tvg-name="ITV 1 BORDERS FHD" tvg-logo="https://logo.iptveditor.com/itvborder.png" group-title="UK | REGIONALS",ITV 1 BORDERS FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20153
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbcscotland.uk" tvg-name="BBC SCOTLAND FHD" tvg-logo="https://logo.iptveditor.com/bbcscotland.png" group-title="UK | REGIONALS",BBC SCOTLAND FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20206
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbconeyorkshire.uk" tvg-name="BBC ONE YORKSHIRE & NORTH MIDLANDS SD" tvg-logo="https://logo.iptveditor.com/bbconeyorkshire.png" group-title="UK | REGIONALS",BBC ONE YORKSHIRE & NORTH MIDLANDS SD
+http://193.107.202.221:81/hGks5gfHy/2479179/20213
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbconeyorkshire&lincolnshire.uk" tvg-name="BBC ONE YORKS & LINCOLNSHIRE SD" tvg-logo="https://logo.iptveditor.com/bbconeyorkshire.png" group-title="UK | REGIONALS",BBC ONE YORKS & LINCOLNSHIRE SD
+http://193.107.202.221:81/hGks5gfHy/2479179/20214
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbconenorthwest.uk" tvg-name="BBC ONE NORTH WEST FHD" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="UK | REGIONALS",BBC ONE NORTH WEST FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20215
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbconewestmidlands.uk" tvg-name="BBC ONE WEST MIDLANDS SD" tvg-logo="https://logo.iptveditor.com/bbconewest.png" group-title="UK | REGIONALS",BBC ONE WEST MIDLANDS SD
+http://193.107.202.221:81/hGks5gfHy/2479179/20216
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbconemidlands.uk" tvg-name="BBC ONE EAST MIDLANDS SD" tvg-logo="https://logo.iptveditor.com/bbconeeastmidlandshz.png" group-title="UK | REGIONALS",BBC ONE EAST MIDLANDS SD
+http://193.107.202.221:81/hGks5gfHy/2479179/20217
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbcone.uk" tvg-name="BBC ONE EAST SD" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="UK | REGIONALS",BBC ONE EAST SD
+http://193.107.202.221:81/hGks5gfHy/2479179/20218
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbconesouth.uk" tvg-name="BBC ONE SOUTH EAST SD" tvg-logo="https://logo.iptveditor.com/bbconesouth.png" group-title="UK | REGIONALS",BBC ONE SOUTH EAST SD
+http://193.107.202.221:81/hGks5gfHy/2479179/20219
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbconesouth.uk" tvg-name="BBC ONE SOUTH SD" tvg-logo="https://logo.iptveditor.com/bbconesouth.png" group-title="UK | REGIONALS",BBC ONE SOUTH SD
+http://193.107.202.221:81/hGks5gfHy/2479179/20220
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbconeoxford.uk" tvg-name="BBC ONE OXFORD SD" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="UK | REGIONALS",BBC ONE OXFORD SD
+http://193.107.202.221:81/hGks5gfHy/2479179/20221
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbconewest.uk" tvg-name="BBC ONE WEST SD" tvg-logo="https://logo.iptveditor.com/bbconewest.png" group-title="UK | REGIONALS",BBC ONE WEST SD
+http://193.107.202.221:81/hGks5gfHy/2479179/20222
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbconesouthwest.uk" tvg-name="BBC ONE SOUTH WEST SD" tvg-logo="https://logo.iptveditor.com/bbconesouth.png" group-title="UK | REGIONALS",BBC ONE SOUTH WEST SD
+http://193.107.202.221:81/hGks5gfHy/2479179/20223
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbconechannelislands.uk" tvg-name="BBC ONE CHANNEL ISLANDS SD" tvg-logo="https://logo.iptveditor.com/bbconechannelislands.png" group-title="UK | REGIONALS",BBC ONE CHANNEL ISLANDS SD
+http://193.107.202.221:81/hGks5gfHy/2479179/20224
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbconecaidge.uk" tvg-name="BBC ONE CAMBRIDGE SD" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="UK | REGIONALS",BBC ONE CAMBRIDGE SD
+http://193.107.202.221:81/hGks5gfHy/2479179/20225
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbctwoni.uk" tvg-name="BBC TWO N.I" tvg-logo="https://logo.iptveditor.com/bbctwo.png" group-title="UK | REGIONALS",BBC TWO N.I
+http://193.107.202.221:81/hGks5gfHy/2479179/20227
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbconescotland.uk" tvg-name="BBC ONE SCOTLAND FHD" tvg-logo="https://logo.iptveditor.com/bbconescotland.png" group-title="UK | REGIONALS",BBC ONE SCOTLAND FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20228
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbconewales.uk" tvg-name="BBC ONE WALES FHD" tvg-logo="https://logo.iptveditor.com/bbconewales.png" group-title="UK | REGIONALS",BBC ONE WALES FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20230
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbconeni.uk" tvg-name="BBC ONE N.I FHD" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="UK | REGIONALS",BBC ONE N.I FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20232
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbctwowales.uk" tvg-name="BBC TWO WALES FHD" tvg-logo="https://logo.iptveditor.com/bbctwowales.png" group-title="UK | REGIONALS",BBC TWO WALES FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/20234
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="utv.uk" tvg-name="UTV FHD" tvg-logo="https://logo.iptveditor.com/utv.png" group-title="UK | REGIONALS",UTV FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/117502
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="utv.uk" tvg-name="UTV" tvg-logo="https://logo.iptveditor.com/utv.png" group-title="UK | REGIONALS",UTV
+http://193.107.202.221:81/hGks5gfHy/2479179/117503
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="utv.uk.plus1" tvg-name="UTV +1" tvg-logo="https://logo.iptveditor.com/utv.png" group-title="UK | REGIONALS",UTV +1
+http://193.107.202.221:81/hGks5gfHy/2479179/117504
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UTV ULSTER" tvg-logo="https://logo.iptveditor.com/utvulster.png" group-title="UK | REGIONALS",UTV ULSTER
+http://193.107.202.221:81/hGks5gfHy/2479179/117505
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="itvgranada.uk" tvg-name="ITV GRANADA FHD" tvg-logo="https://logo.iptveditor.com/itvgranada.png" group-title="UK | REGIONALS",ITV GRANADA FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/129533
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="itv.uk.plus1" tvg-name="ITV +1" tvg-logo="https://logo.iptveditor.com/itvplus.png" group-title="UK | REGIONALS",ITV +1
+http://193.107.202.221:81/hGks5gfHy/2479179/303048
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbconenorthwest.uk" tvg-name="BBC ONE NORTH EAST" tvg-logo="https://logo.iptveditor.com/bbconenorthwesthz.png" group-title="UK | REGIONALS",BBC ONE NORTH EAST
+http://193.107.202.221:81/hGks5gfHy/2479179/304197
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbcone.uk" tvg-name="DEV - BBC One HD" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="UK | REGIONALS",DEV - BBC One HD
+http://193.107.202.221:81/hGks5gfHy/2479179/335911
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Astro SuperSport" tvg-name="MY: ASTRO SUPERSPORT 1 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png" group-title="LIVE | ASTRO SOOKA",MY: ASTRO SUPERSPORT 1 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/38186
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Astro SuperSport 2" tvg-name="MY: ASTRO SUPERSPORT 2 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png" group-title="LIVE | ASTRO SOOKA",MY: ASTRO SUPERSPORT 2 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/38187
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Astro SuperSport 3" tvg-name="MY: ASTRO SUPERSPORT 3 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png" group-title="LIVE | ASTRO SOOKA",MY: ASTRO SUPERSPORT 3 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/38189
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Astro SuperSport 4" tvg-name="MY: ASTRO SUPERSPORT 4 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png" group-title="LIVE | ASTRO SOOKA",MY: ASTRO SUPERSPORT 4 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/38191
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY: BEIN SPORTS 3 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/BeINSports2017.png" group-title="LIVE | ASTRO SOOKA",MY: BEIN SPORTS 3 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/1117032
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY: EUROSPORT FHD" tvg-logo="https://broadbandtvnews-broadbandtvnews.netdna-ssl.com/wp-content/uploads/2015/11/Eurosport-logo-symbol.png" group-title="LIVE | ASTRO SOOKA",MY: EUROSPORT FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/1117035
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY: ASTRO ARENA 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="LIVE | ASTRO SOOKA",MY: ASTRO ARENA 1 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/1117033
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY: ASTRO ARENA 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="LIVE | ASTRO SOOKA",MY: ASTRO ARENA 2 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/1117034
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HK: NOW PREMIER SPORTS 1 UHD" tvg-logo="https://logo.iptveditor.com/nowsports.png" group-title="LIVE | NOW HK",HK: NOW PREMIER SPORTS 1 UHD
+http://193.107.202.221:81/hGks5gfHy/2479179/176285
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HK: NOW PREMIER SPORTS 2 UHD" tvg-logo="https://logo.iptveditor.com/nowsports.png" group-title="LIVE | NOW HK",HK: NOW PREMIER SPORTS 2 UHD
+http://193.107.202.221:81/hGks5gfHy/2479179/176284
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HK: NOW PREMIER SPORTS 3 UHD" tvg-logo="https://logo.iptveditor.com/nowsports.png" group-title="LIVE | NOW HK",HK: NOW PREMIER SPORTS 3 UHD
+http://193.107.202.221:81/hGks5gfHy/2479179/176283
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HK: NOW PREMIER SPORTS 4 UHD" tvg-logo="https://logo.iptveditor.com/nowsports.png" group-title="LIVE | NOW HK",HK: NOW PREMIER SPORTS 4 UHD
+http://193.107.202.221:81/hGks5gfHy/2479179/176282
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HK: NOW PREMIER SPORTS 5 UHD" tvg-logo="https://logo.iptveditor.com/nowsports.png" group-title="LIVE | NOW HK",HK: NOW PREMIER SPORTS 5 UHD
+http://193.107.202.221:81/hGks5gfHy/2479179/176281
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HK: NOW PREMIER SPORTS 6 UHD" tvg-logo="https://logo.iptveditor.com/nowsports.png" group-title="LIVE | NOW HK",HK: NOW PREMIER SPORTS 6 UHD
+http://193.107.202.221:81/hGks5gfHy/2479179/176280
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HK: NOW PREMIER SPORTS 7 UHD" tvg-logo="https://logo.iptveditor.com/nowsports.png" group-title="LIVE | NOW HK",HK: NOW PREMIER SPORTS 7 UHD
+http://193.107.202.221:81/hGks5gfHy/2479179/176279
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HK: NOW PREMIER SPORTS 8 UHD" tvg-logo="https://logo.iptveditor.com/nowsports.png" group-title="LIVE | NOW HK",HK: NOW PREMIER SPORTS 8 UHD
+http://193.107.202.221:81/hGks5gfHy/2479179/176278
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY: ASTRO SPOTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png" group-title="LIVE | ASTRO SOOKA",MY: ASTRO SPOTV FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/1117036
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY: ASTRO SPOTV 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png" group-title="LIVE | ASTRO SOOKA",MY: ASTRO SPOTV 2 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/1117037
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="F1TV: S.K.Y SPORTS F1 HD" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="LIVE | F1",F1TV: S.K.Y SPORTS F1 HD
+http://193.107.202.221:81/hGks5gfHy/2479179/303125
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="F1TV: S.K.Y SPORTS F1 UHD (50FPS)" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="LIVE | F1",F1TV: S.K.Y SPORTS F1 UHD (50FPS)
+http://193.107.202.221:81/hGks5gfHy/2479179/303126
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="F1TV: S.K.Y SPORTS F1 FHD" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="LIVE | F1",F1TV: S.K.Y SPORTS F1 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/354824
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtp-1-sd" tvg-name="PT: RTP 1" tvg-logo="https://logo.iptveditor.com/rtp1.png" group-title="INT | PORTUGAL",PT: RTP 1
+http://193.107.202.221:81/hGks5gfHy/2479179/118184
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtp-2" tvg-name="PT: RTP 2" tvg-logo="https://logo.iptveditor.com/rtp2.png" group-title="INT | PORTUGAL",PT: RTP 2
+http://193.107.202.221:81/hGks5gfHy/2479179/118187
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sic-sd" tvg-name="PT: SIC" tvg-logo="https://i.postimg.cc/cCV9Y4xY/SIC-2018.png" group-title="INT | PORTUGAL",PT: SIC
+http://193.107.202.221:81/hGks5gfHy/2479179/118197
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tvi-sd" tvg-name="PT: TVI" tvg-logo="https://i.postimg.cc/05d00fVF/TVI.png" group-title="INT | PORTUGAL",PT: TVI
+http://193.107.202.221:81/hGks5gfHy/2479179/102396
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sic-noticias" tvg-name="PT: SIC NOTÍCIAS" tvg-logo="https://logo.iptveditor.com/sicnoticias.png" group-title="INT | PORTUGAL",PT: SIC NOTÍCIAS
+http://193.107.202.221:81/hGks5gfHy/2479179/102334
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtp-3-sd" tvg-name="PT: RTP 3" tvg-logo="https://logo.iptveditor.com/rtp3.png" group-title="INT | PORTUGAL",PT: RTP 3
+http://193.107.202.221:81/hGks5gfHy/2479179/118190
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cnn-pt" tvg-name="PT: CNN PORTUGAL" tvg-logo="https://logo.iptveditor.com/cnn.png" group-title="INT | PORTUGAL",PT: CNN PORTUGAL
+http://193.107.202.221:81/hGks5gfHy/2479179/118243
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cmtv-sd" tvg-name="PT: CMTV" tvg-logo="https://logo.iptveditor.com/cmtv.png" group-title="INT | PORTUGAL",PT: CMTV
+http://193.107.202.221:81/hGks5gfHy/2479179/118124
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="benfica-tv-1-sd" tvg-name="PT: BENFICA TV" tvg-logo="https://logo.iptveditor.com/btv.png" group-title="INT | PORTUGAL",PT: BENFICA TV
+http://193.107.202.221:81/hGks5gfHy/2479179/102130
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sport-tv-mais-sd" tvg-name="PT: SPORT TV +" tvg-logo="https://i.postimg.cc/HxKdmpdX/Sport-TV-3.png" group-title="INT | PORTUGAL",PT: SPORT TV +
+http://193.107.202.221:81/hGks5gfHy/2479179/102346
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sport-tv1-sd" tvg-name="PT: SPORT TV 1" tvg-logo="http://dl.dropboxusercontent.com/s/x2gd6cvkrdf1f0j/sporttv-1.png" group-title="INT | PORTUGAL",PT: SPORT TV 1
+http://193.107.202.221:81/hGks5gfHy/2479179/102347
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sport-tv2-sd" tvg-name="PT: SPORT TV 2" tvg-logo="http://dl.dropboxusercontent.com/s/td33rqzfv1fcsyn/sporttv-2.png" group-title="INT | PORTUGAL",PT: SPORT TV 2
+http://193.107.202.221:81/hGks5gfHy/2479179/102348
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sport-tv3-sd" tvg-name="PT: SPORT TV 3" tvg-logo="http://dl.dropboxusercontent.com/s/cvafm2xmm2822kv/sporttv-3.png" group-title="INT | PORTUGAL",PT: SPORT TV 3
+http://193.107.202.221:81/hGks5gfHy/2479179/102349
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sport-tv4-sd" tvg-name="PT: SPORT TV 4" tvg-logo="http://dl.dropboxusercontent.com/s/qkhum1y9zupb57g/sporttv-4.png" group-title="INT | PORTUGAL",PT: SPORT TV 4
+http://193.107.202.221:81/hGks5gfHy/2479179/102350
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sport-tv5-sd" tvg-name="PT: SPORT TV 5" tvg-logo="http://dl.dropboxusercontent.com/s/pc8dhom81qcnfo4/sporttv-5.png" group-title="INT | PORTUGAL",PT: SPORT TV 5
+http://193.107.202.221:81/hGks5gfHy/2479179/102351
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sport-tv6-sd" tvg-name="PT: SPORT TV 6" tvg-logo="https://i.postimg.cc/VNgkxQJW/Sport-TV-6-2.png" group-title="INT | PORTUGAL",PT: SPORT TV 6
+http://193.107.202.221:81/hGks5gfHy/2479179/987589
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 01: Blast premier fall finals day 1  (23/11 8:00am UK // 23/11 5:00am ET)" tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 01: Blast premier fall finals day 1  (23/11 8:00am UK // 23/11 5:00am ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1113642
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 02: Psg vs. Vllaznia  (23/11 4:45pm UK // 23/11 1:45pm ET)" tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 02: Psg vs. Vllaznia  (23/11 4:45pm UK // 23/11 1:45pm ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1113641
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 03: Blast premier fall finals day 2  (24/11 8:00am UK // 24/11 5:00am ET)" tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 03: Blast premier fall finals day 2  (24/11 8:00am UK // 24/11 5:00am ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1113640
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 04: Barcelona vs. Bayern munich  (24/11 4:45pm UK // 24/11 1:45pm ET)" tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 04: Barcelona vs. Bayern munich  (24/11 4:45pm UK // 24/11 1:45pm ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1113639
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 05: Whyte vs. Franklin weighin  (25/11 12:00pm UK // 25/11 9:00am ET)" tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 05: Whyte vs. Franklin weighin  (25/11 12:00pm UK // 25/11 9:00am ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1113638
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 06: Brave cf 66 bali almabaev vs. Idrisov  (26/11 9:00am UK // 26/11 6:00am ET)" tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 06: Brave cf 66 bali almabaev vs. Idrisov  (26/11 9:00am UK // 26/11 6:00am ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1113637
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 07: Real madrid vs. Alhama  (26/11 4:15pm UK // 26/11 1:15pm ET)" tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 07: Real madrid vs. Alhama  (26/11 4:15pm UK // 26/11 1:15pm ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1113636
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 08: New zealand vs. Brisbane Sun  (27/11 2:00am UK // 26/11 11:00pm ET)" tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 08: New zealand vs. Brisbane Sun  (27/11 2:00am UK // 26/11 11:00pm ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1113635
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 09: Atletico madrid vs. Barcelona  (27/11 2:30pm UK // 27/11 11:30am ET)" tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 09: Atletico madrid vs. Barcelona  (27/11 2:30pm UK // 27/11 11:30am ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1113634
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 10: Slavia prague vs. St. Polten  (23/11 4:45pm UK // 23/11 1:45pm ET)" tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 10: Slavia prague vs. St. Polten  (23/11 4:45pm UK // 23/11 1:45pm ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1113633
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 11: Perth vs. Adelaide  (24/11 9:30am UK // 24/11 6:30am ET)" tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 11: Perth vs. Adelaide  (24/11 9:30am UK // 24/11 6:30am ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1113632
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 12: Zurich vs. Lyon  (24/11 4:45pm UK // 24/11 1:45pm ET)" tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 12: Zurich vs. Lyon  (24/11 4:45pm UK // 24/11 1:45pm ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1113631
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 13: Blast premier fall finals day 3  (25/11 1:30pm UK // 25/11 10:30am ET)" tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 13: Blast premier fall finals day 3  (25/11 1:30pm UK // 25/11 10:30am ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1113630
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 14: Levante vs. Sevilla  (26/11 10:00am UK // 26/11 7:00am ET)" tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 14: Levante vs. Sevilla  (26/11 10:00am UK // 26/11 7:00am ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1113629
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 15: Kinguin ptw #3 legends  (26/11 5:00pm UK // 26/11 2:00pm ET)" tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 15: Kinguin ptw #3 legends  (26/11 5:00pm UK // 26/11 2:00pm ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1113628
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 16: Chelsea vs. Real madrid  (23/11 7:00pm UK // 23/11 4:00pm ET)" tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 16: Chelsea vs. Real madrid  (23/11 7:00pm UK // 23/11 4:00pm ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1113627
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 17: Whyte vs. Franklin press conference  (24/11 12:00pm UK // 24/11 9:00am ET)" tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 17: Whyte vs. Franklin press conference  (24/11 12:00pm UK // 24/11 9:00am ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1113626
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 18: Benfica vs. Rosengard  (24/11 7:00pm UK // 24/11 4:00pm ET)" tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 18: Benfica vs. Rosengard  (24/11 7:00pm UK // 24/11 4:00pm ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1113625
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 19: Blast premier fall finals day 4  (26/11 1:30pm UK // 26/11 10:30am ET)" tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 19: Blast premier fall finals day 4  (26/11 1:30pm UK // 26/11 10:30am ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1113624
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 20: Roma vs. Wolfsburg  (23/11 7:00pm UK // 23/11 4:00pm ET)" tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 20: Roma vs. Wolfsburg  (23/11 7:00pm UK // 23/11 4:00pm ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1113623
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 21: Juventus vs. Arsenal  (24/11 7:00pm UK // 24/11 4:00pm ET)" tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 21: Juventus vs. Arsenal  (24/11 7:00pm UK // 24/11 4:00pm ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1113622
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 22: Whyte vs. Franklin fight night  (26/11 6:00pm UK // 26/11 3:00pm ET)" tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 22: Whyte vs. Franklin fight night  (26/11 6:00pm UK // 26/11 3:00pm ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1113621
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 23: Kok 105 walczak vs. Zile  (26/11 6:00pm UK // 26/11 3:00pm ET)" tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 23: Kok 105 walczak vs. Zile  (26/11 6:00pm UK // 26/11 3:00pm ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1113620
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 24: " tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 24: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1113619
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 25: " tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 25: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1113618
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 26: " tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 26: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1113617
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 27: " tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 27: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1113616
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 28: " tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 28: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1113615
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 29: " tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 29: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1113614
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 30: " tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 30: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1113613
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 31: " tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 31: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1113612
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 32: " tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 32: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1113611
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 33: " tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 33: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1113610
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 34: " tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 34: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1113609
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 35: " tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 35: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1113608
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 36: " tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 36: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1113607
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 37: " tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 37: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1113606
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 38: " tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 38: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1113605
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 39: " tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 39: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1113604
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 40: " tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 40: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1113603
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 41: " tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 41: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1113602
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 42: " tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 42: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1113601
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 43: " tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 43: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1113600
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 44: " tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 44: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1113599
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 45: " tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 45: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1113598
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 46: " tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 46: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1113597
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 47: " tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 47: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1113596
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 48: " tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 48: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1113595
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 49: " tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 49: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1113594
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DAZN 50: " tvg-logo="https://logo.iptveditor.com/dazn.png" group-title="LIVE | DAZN",DAZN 50: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1113593
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 00 ? Championship ?" tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 00 ? Championship ?
+http://193.107.202.221:81/hGks5gfHy/2479179/1117837
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 01: Sunderland vs Millwall (12/03 12:30 UK / 12/03 07:30AM ET)" tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 01: Sunderland vs Millwall (12/03 12:30 UK / 12/03 07:30AM ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1117836
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 02 ? League 1 ?" tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 02 ? League 1 ?
+http://193.107.202.221:81/hGks5gfHy/2479179/1117835
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 03: Bolton Wanderers vs Bristol Rovers (12/02 19:45 UK / 12/02 02:45PM ET)" tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 03: Bolton Wanderers vs Bristol Rovers (12/02 19:45 UK / 12/02 02:45PM ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1117834
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 04: Charlton Athletic vs Cheltenham Town (12/02 19:45 UK / 12/02 02:45PM ET)" tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 04: Charlton Athletic vs Cheltenham Town (12/02 19:45 UK / 12/02 02:45PM ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1117833
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 05: Ipswich Town vs Fleetwood Town (12/02 19:45 UK / 12/02 02:45PM ET)" tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 05: Ipswich Town vs Fleetwood Town (12/02 19:45 UK / 12/02 02:45PM ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1117832
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 06: Morecambe vs Exeter City (12/02 19:45 UK / 12/02 02:45PM ET)" tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 06: Morecambe vs Exeter City (12/02 19:45 UK / 12/02 02:45PM ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1117831
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 07: Peterborough United vs Barnsley (12/02 19:45 UK / 12/02 02:45PM ET)" tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 07: Peterborough United vs Barnsley (12/02 19:45 UK / 12/02 02:45PM ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1117830
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 08: Plymouth Argyle vs Port Vale (12/02 19:45 UK / 12/02 02:45PM ET)" tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 08: Plymouth Argyle vs Port Vale (12/02 19:45 UK / 12/02 02:45PM ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1117829
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 09: Derby County vs Sheffield Wednesday (12/03 12:30 UK / 12/03 07:30AM ET)" tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 09: Derby County vs Sheffield Wednesday (12/03 12:30 UK / 12/03 07:30AM ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1117828
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 10: Milton Keynes Dons vs Burton Albion (12/03 12:30 UK / 12/03 07:30AM ET)" tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 10: Milton Keynes Dons vs Burton Albion (12/03 12:30 UK / 12/03 07:30AM ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1117827
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 11: Shrewsbury Town vs Lincoln City (12/03 12:30 UK / 12/03 07:30AM ET)" tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 11: Shrewsbury Town vs Lincoln City (12/03 12:30 UK / 12/03 07:30AM ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1117826
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 12: Forest Green Rovers vs Cambridge United (12/03 13:00 UK / 12/03 08:00AM ET)" tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 12: Forest Green Rovers vs Cambridge United (12/03 13:00 UK / 12/03 08:00AM ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1117825
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 13: Accrington Stanley vs Oxford United (12/03 15:00 UK / 12/03 10:00AM ET)" tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 13: Accrington Stanley vs Oxford United (12/03 15:00 UK / 12/03 10:00AM ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1117824
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 14: Wycombe Wanderers vs Portsmouth (12/04 12:30 UK / 12/04 07:30AM ET)" tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 14: Wycombe Wanderers vs Portsmouth (12/04 12:30 UK / 12/04 07:30AM ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1117823
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 15 ? League 2 ?" tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 15 ? League 2 ?
+http://193.107.202.221:81/hGks5gfHy/2479179/1117822
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 16: Crewe Alexandra vs Newport County (12/02 19:45 UK / 12/02 02:45PM ET)" tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 16: Crewe Alexandra vs Newport County (12/02 19:45 UK / 12/02 02:45PM ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1117821
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 17: Doncaster Rovers vs Walsall (12/02 19:45 UK / 12/02 02:45PM ET)" tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 17: Doncaster Rovers vs Walsall (12/02 19:45 UK / 12/02 02:45PM ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1117820
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 18: Stevenage vs Barrow (12/02 19:45 UK / 12/02 02:45PM ET)" tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 18: Stevenage vs Barrow (12/02 19:45 UK / 12/02 02:45PM ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1117819
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 19: AFC Wimbledon vs Grimsby Town (12/03 12:30 UK / 12/03 07:30AM ET)" tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 19: AFC Wimbledon vs Grimsby Town (12/03 12:30 UK / 12/03 07:30AM ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1117818
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 20: Gillingham vs Salford City (12/03 12:30 UK / 12/03 07:30AM ET)" tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 20: Gillingham vs Salford City (12/03 12:30 UK / 12/03 07:30AM ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1117817
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 21: Leyton Orient vs Bradford City (12/03 12:30 UK / 12/03 07:30AM ET)" tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 21: Leyton Orient vs Bradford City (12/03 12:30 UK / 12/03 07:30AM ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1117816
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 22: Carlisle United vs Sutton United (12/03 13:00 UK / 12/03 08:00AM ET)" tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 22: Carlisle United vs Sutton United (12/03 13:00 UK / 12/03 08:00AM ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1117815
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 23: Crawley Town vs Swindon Town (12/03 15:00 UK / 12/03 10:00AM ET)" tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 23: Crawley Town vs Swindon Town (12/03 15:00 UK / 12/03 10:00AM ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1117814
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 24: Hartlepool United vs Stockport County (12/03 15:00 UK / 12/03 10:00AM ET)" tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 24: Hartlepool United vs Stockport County (12/03 15:00 UK / 12/03 10:00AM ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1117813
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 25: Mansfield Town vs Colchester United (12/03 15:00 UK / 12/03 10:00AM ET)" tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 25: Mansfield Town vs Colchester United (12/03 15:00 UK / 12/03 10:00AM ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1117812
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 26: Northampton Town vs Tranmere Rovers (12/03 15:00 UK / 12/03 10:00AM ET)" tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 26: Northampton Town vs Tranmere Rovers (12/03 15:00 UK / 12/03 10:00AM ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1117811
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 27: Rochdale vs Harrogate (12/03 15:00 UK / 12/03 10:00AM ET)" tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 27: Rochdale vs Harrogate (12/03 15:00 UK / 12/03 10:00AM ET)
+http://193.107.202.221:81/hGks5gfHy/2479179/1117810
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 28: " tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 28: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1117809
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 29: " tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 29: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1117808
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 30: " tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 30: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1117807
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 31: " tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 31: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1117806
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 32: " tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 32: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1117805
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 33: " tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 33: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1117804
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 34: " tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 34: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1117803
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 35: " tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 35: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1117802
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 36: " tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 36: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1117801
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 37: " tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 37: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1117800
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 38: " tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 38: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1117799
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EFL 39: " tvg-logo="https://logo.iptveditor.com/eflc07.png" group-title="LIVE | iFOLLOW (EFL)",EFL 39: 
+http://193.107.202.221:81/hGks5gfHy/2479179/1117798
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canal+premierleague.fr" tvg-name="FR: CANAL+ PREMIERE LEAGUE FHD" tvg-logo="https://logo.iptveditor.com/canal+premierleague.png" group-title="INT | FRANCE",FR: CANAL+ PREMIERE LEAGUE FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/1115157
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canal+sport.fr" tvg-name="FR: CANAL+ SPORT FHD" tvg-logo="https://logo.iptveditor.com/canalsport.png" group-title="INT | FRANCE",FR: CANAL+ SPORT FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/1115156
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canal+docs.fr" tvg-name="FR: CANAL+ DOCS FHD" tvg-logo="https://logo.iptveditor.com/canald.png" group-title="INT | FRANCE",FR: CANAL+ DOCS FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/1115155
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canal+formula1.fr" tvg-name="FR: CANAL+ FORMULA 1 FHD" tvg-logo="https://logo.iptveditor.com/formula1.png" group-title="INT | FRANCE",FR: CANAL+ FORMULA 1 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/1115154
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canal+motogp.fr" tvg-name="FR: CANAL+ MOTOGP FHD" tvg-logo="https://logo.iptveditor.com/logocanalmotor5.png" group-title="INT | FRANCE",FR: CANAL+ MOTOGP FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/1115153
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FR: CANAL+ LEAGUE DES CHAMPIONS FHD" tvg-logo="https://logo.iptveditor.com/l'ecoledeschampions.png" group-title="INT | FRANCE",FR: CANAL+ LEAGUE DES CHAMPIONS FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/1115152
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FR: CANAL+ SPORT LEAGUE DES CHAMPIONS FHD" tvg-logo="https://logo.iptveditor.com/l'ecoledeschampions.png" group-title="INT | FRANCE",FR: CANAL+ SPORT LEAGUE DES CHAMPIONS FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/1115151
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rmcsport.fr" tvg-name="FR: RMC SPORTS 1 FHD" tvg-logo="https://logo.iptveditor.com/rmcsport.png" group-title="INT | FRANCE",FR: RMC SPORTS 1 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/1115148
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rmcsport.fr" tvg-name="FR: RMC SPORTS 2 FHD" tvg-logo="https://logo.iptveditor.com/rmcsport.png" group-title="INT | FRANCE",FR: RMC SPORTS 2 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/1115147
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rmcsport.fr" tvg-name="FR: RMC SPORTS 3 FHD" tvg-logo="https://logo.iptveditor.com/rmcsport.png" group-title="INT | FRANCE",FR: RMC SPORTS 3 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/1115146
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rmcsport.fr" tvg-name="FR: RMC SPORTS 4 FHD (EVENT ONLY)" tvg-logo="https://logo.iptveditor.com/rmcsport.png" group-title="INT | FRANCE",FR: RMC SPORTS 4 FHD (EVENT ONLY)
+http://193.107.202.221:81/hGks5gfHy/2479179/1115145
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rmcsport.fr" tvg-name="FR: RMC SPORTS 5 FHD (EVENT ONLY)" tvg-logo="https://logo.iptveditor.com/rmcsport.png" group-title="INT | FRANCE",FR: RMC SPORTS 5 FHD (EVENT ONLY)
+http://193.107.202.221:81/hGks5gfHy/2479179/1115144
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rmcsport.fr" tvg-name="FR: RMC SPORTS 6 FHD (EVENT ONLY)" tvg-logo="https://logo.iptveditor.com/rmcsport.png" group-title="INT | FRANCE",FR: RMC SPORTS 6 FHD (EVENT ONLY)
+http://193.107.202.221:81/hGks5gfHy/2479179/1115143
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rmcsport.fr" tvg-name="FR: RMC SPORTS 7 FHD (EVENT ONLY)" tvg-logo="https://logo.iptveditor.com/rmcsport.png" group-title="INT | FRANCE",FR: RMC SPORTS 7 FHD (EVENT ONLY)
+http://193.107.202.221:81/hGks5gfHy/2479179/1115142
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rmcsport.fr" tvg-name="FR: RMC SPORTS 8 FHD (EVENT ONLY)" tvg-logo="https://logo.iptveditor.com/rmcsport.png" group-title="INT | FRANCE",FR: RMC SPORTS 8 FHD (EVENT ONLY)
+http://193.107.202.221:81/hGks5gfHy/2479179/1115141
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rmcsport.fr" tvg-name="FR: RMC SPORTS 9 FHD (EVENT ONLY)" tvg-logo="https://logo.iptveditor.com/rmcsport.png" group-title="INT | FRANCE",FR: RMC SPORTS 9 FHD (EVENT ONLY)
+http://193.107.202.221:81/hGks5gfHy/2479179/1115140
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rmcsport.fr" tvg-name="FR: RMC SPORTS 10 FHD (EVENT ONLY)" tvg-logo="https://logo.iptveditor.com/rmcsport.png" group-title="INT | FRANCE",FR: RMC SPORTS 10 FHD (EVENT ONLY)
+http://193.107.202.221:81/hGks5gfHy/2479179/1115139
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rmcsport.fr" tvg-name="FR: RMC SPORTS 11 FHD (EVENT ONLY)" tvg-logo="https://logo.iptveditor.com/rmcsport.png" group-title="INT | FRANCE",FR: RMC SPORTS 11 FHD (EVENT ONLY)
+http://193.107.202.221:81/hGks5gfHy/2479179/1115138
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rmcsport.fr" tvg-name="FR: RMC SPORTS 12 FHD (EVENT ONLY)" tvg-logo="https://logo.iptveditor.com/rmcsport.png" group-title="INT | FRANCE",FR: RMC SPORTS 12 FHD (EVENT ONLY)
+http://193.107.202.221:81/hGks5gfHy/2479179/1115137
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport1.de" tvg-name="DE: SKY SPORT 1 FHD" tvg-logo="http://xui.sstv.one:80/images/3ea680481d4ca46e011a2c97e5dc4d50.png" group-title="INT | GERMANY",DE: SKY SPORT 1 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/1115478
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport2.de" tvg-name="DE: SKY SPORT 2 FHD" tvg-logo="https://logo.iptveditor.com/skysports.png" group-title="INT | GERMANY",DE: SKY SPORT 2 FHD
+http://193.107.202.221:81/hGks5gfHy/2479179/1115477
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport3.de" tvg-name="DE: SKY SPORT 3 FHD (LIVE EVENTS ONLY)" tvg-logo="https://logo.iptveditor.com/skysports.png" group-title="INT | GERMANY",DE: SKY SPORT 3 FHD (LIVE EVENTS ONLY)
+http://193.107.202.221:81/hGks5gfHy/2479179/1115476
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport4.de" tvg-name="DE: SKY SPORT 4 FHD (LIVE EVENTS ONLY)" tvg-logo="https://logo.iptveditor.com/skysports.png" group-title="INT | GERMANY",DE: SKY SPORT 4 FHD (LIVE EVENTS ONLY)
+http://193.107.202.221:81/hGks5gfHy/2479179/1115475
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport5.de" tvg-name="DE: SKY SPORT 5 FHD (LIVE EVENTS ONLY)" tvg-logo="https://logo.iptveditor.com/skysports.png" group-title="INT | GERMANY",DE: SKY SPORT 5 FHD (LIVE EVENTS ONLY)
+http://193.107.202.221:81/hGks5gfHy/2479179/1115474
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport6.de" tvg-name="DE: SKY SPORT 6 FHD (LIVE EVENTS ONLY)" tvg-logo="https://logo.iptveditor.com/skysports.png" group-title="INT | GERMANY",DE: SKY SPORT 6 FHD (LIVE EVENTS ONLY)
+http://193.107.202.221:81/hGks5gfHy/2479179/1115473
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport7.de" tvg-name="DE: SKY SPORT 7 FHD (LIVE EVENTS ONLY)" tvg-logo="https://logo.iptveditor.com/skysports.png" group-title="INT | GERMANY",DE: SKY SPORT 7 FHD (LIVE EVENTS ONLY)
+http://193.107.202.221:81/hGks5gfHy/2479179/1115472
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport8.de" tvg-name="DE: SKY SPORT 8 FHD (LIVE EVENTS ONLY)" tvg-logo="https://logo.iptveditor.com/skysports.png" group-title="INT | GERMANY",DE: SKY SPORT 8 FHD (LIVE EVENTS ONLY)
+http://193.107.202.221:81/hGks5gfHy/2479179/1115471
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport9.de" tvg-name="DE: SKY SPORT 9 FHD (LIVE EVENTS ONLY)" tvg-logo="https://logo.iptveditor.com/skysports.png" group-title="INT | GERMANY",DE: SKY SPORT 9 FHD (LIVE EVENTS ONLY)
+http://193.107.202.221:81/hGks5gfHy/2479179/1115470
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport10.de" tvg-name="DE: SKY SPORT 10 FHD (LIVE EVENTS ONLY)" tvg-logo="https://logo.iptveditor.com/skysport10.png" group-title="INT | GERMANY",DE: SKY SPORT 10 FHD (LIVE EVENTS ONLY)
+http://193.107.202.221:81/hGks5gfHy/2479179/1115469
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport11.de" tvg-name="DE: SKY SPORT 11 FHD (LIVE EVENTS ONLY)" tvg-logo="https://logo.iptveditor.com/skysport11.png" group-title="INT | GERMANY",DE: SKY SPORT 11 FHD (LIVE EVENTS ONLY)
+http://193.107.202.221:81/hGks5gfHy/2479179/1115468
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport12.de" tvg-name="DE: SKY SPORT 12 FHD (LIVE EVENTS ONLY)" tvg-logo="https://logo.iptveditor.com/skysport12.png" group-title="INT | GERMANY",DE: SKY SPORT 12 FHD (LIVE EVENTS ONLY)
+http://193.107.202.221:81/hGks5gfHy/2479179/1115467
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport13.de" tvg-name="DE: SKY SPORT 13 FHD (LIVE EVENTS ONLY)" tvg-logo="https://logo.iptveditor.com/skysport13.png" group-title="INT | GERMANY",DE: SKY SPORT 13 FHD (LIVE EVENTS ONLY)
+http://193.107.202.221:81/hGks5gfHy/2479179/1115466
